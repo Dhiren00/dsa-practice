@@ -1,35 +1,44 @@
 class Solution {
 public:
+    set<vector<int>> s;
 
-void backtracking(vector<int>& candidates, int i, int target,
-                  vector<int>& ans, vector<vector<int>>& ans1)
-{
-    if(target == 0)
+    void getAllCombinations(vector<int>& arr, int idx, int tar,
+                            vector<vector<int>>& ans, vector<int>& combin)
     {
-        ans1.push_back(ans);
-        return;
+        if (idx == arr.size() || tar < 0) {
+            return;
+        }
+
+        if (tar == 0) {
+            if (s.find(combin) == s.end()) {
+                ans.push_back(combin);
+                s.insert(combin);
+            }
+            return;
+        }
+
+        // include current element
+        combin.push_back(arr[idx]);
+
+        // single use
+        getAllCombinations(arr, idx + 1, tar - arr[idx], ans, combin);
+
+        // multiple use
+        getAllCombinations(arr, idx, tar - arr[idx], ans, combin);
+
+        // backtrack
+        combin.pop_back();
+
+        // exclude current element
+        getAllCombinations(arr, idx + 1, tar, ans, combin);
     }
 
-    if(target < 0 || i == candidates.size())
-        return;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> ans;
+        vector<int> combin;
 
-    // include (same index because reuse allowed)
-    ans.push_back(candidates[i]);
-    backtracking(candidates, i, target - candidates[i], ans, ans1);
+        getAllCombinations(candidates, 0, target, ans, combin);
 
-    // backtrack
-    ans.pop_back();
-
-    // exclude
-    backtracking(candidates, i + 1, target, ans, ans1);
-}
-
-vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-    vector<int> ans;
-    vector<vector<int>> ans1;
-
-    backtracking(candidates, 0, target, ans, ans1);
-
-    return ans1;
-}
+        return ans;
+    }
 };
