@@ -10,6 +10,7 @@
 | [0051-n-queens](https://github.com/Dhiren00/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Dhiren00/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0090-subsets-ii) |
+| [1470-shuffle-the-array](https://github.com/Dhiren00/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Dhiren00/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
