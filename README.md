@@ -12,6 +12,7 @@
 | [0090-subsets-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/Dhiren00/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Dhiren00/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Dhiren00/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
@@ -38,6 +39,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Dhiren00/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -92,8 +94,13 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
