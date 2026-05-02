@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/Dhiren00/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dhiren00/dsa-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Dhiren00/dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Dhiren00/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
@@ -72,6 +73,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dhiren00/dsa-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Dhiren00/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
@@ -110,4 +112,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhiren00/dsa-practice/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dhiren00/dsa-practice/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
