@@ -15,6 +15,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dhiren00/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Dhiren00/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhiren00/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Dhiren00/dsa-practice/tree/master/0739-daily-temperatures) |
@@ -123,6 +124,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhiren00/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Dhiren00/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhiren00/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Dhiren00/dsa-practice/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Dhiren00/dsa-practice/tree/master/1441-build-an-array-with-stack-operations) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhiren00/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Dhiren00/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dhiren00/dsa-practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhiren00/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
