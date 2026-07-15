@@ -48,6 +48,7 @@
 | [0037-sudoku-solver](https://github.com/Dhiren00/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhiren00/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Dhiren00/dsa-practice/tree/master/0146-lru-cache) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dhiren00/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
@@ -93,6 +94,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Dhiren00/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhiren00/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Dhiren00/dsa-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +117,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Dhiren00/dsa-practice/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Counting Sort
 |  |
@@ -146,5 +149,6 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Dhiren00/dsa-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Dhiren00/dsa-practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
