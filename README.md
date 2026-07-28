@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/Dhiren00/dsa-practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhiren00/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Dhiren00/dsa-practice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dhiren00/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhiren00/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Dhiren00/dsa-practice/tree/master/0146-lru-cache) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0572-subtree-of-another-tree) |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0572-subtree-of-another-tree) |
@@ -219,4 +223,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
