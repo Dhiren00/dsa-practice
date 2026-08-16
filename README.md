@@ -17,6 +17,7 @@
 | [0134-gas-station](https://github.com/Dhiren00/dsa-practice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhiren00/dsa-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dhiren00/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Dhiren00/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhiren00/dsa-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhiren00/dsa-practice/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
