@@ -17,6 +17,7 @@
 | [0134-gas-station](https://github.com/Dhiren00/dsa-practice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhiren00/dsa-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dhiren00/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Dhiren00/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Dhiren00/dsa-practice/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhiren00/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dhiren00/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -148,6 +150,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Doubly-Linked List
@@ -158,6 +161,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhiren00/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
@@ -212,6 +216,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhiren00/dsa-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhiren00/dsa-practice/tree/master/1046-last-stone-weight) |
 ## Sliding Window
@@ -281,6 +286,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -304,4 +310,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Dhiren00/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
