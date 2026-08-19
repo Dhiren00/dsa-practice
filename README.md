@@ -14,6 +14,7 @@
 | [0090-subsets-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhiren00/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Dhiren00/dsa-practice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dhiren00/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhiren00/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhiren00/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Dhiren00/dsa-practice/tree/master/0146-lru-cache) |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dhiren00/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
