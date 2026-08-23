@@ -27,6 +27,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Dhiren00/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Dhiren00/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Dhiren00/dsa-practice/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Doubly-Linked List
 |  |
@@ -165,6 +167,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhiren00/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -220,6 +223,7 @@
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhiren00/dsa-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dhiren00/dsa-practice/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
@@ -289,6 +293,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,6 +321,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -324,4 +330,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhiren00/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
