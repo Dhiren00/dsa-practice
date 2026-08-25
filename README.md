@@ -136,6 +136,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Dhiren00/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Dhiren00/dsa-practice/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -149,10 +150,12 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhiren00/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
@@ -292,6 +295,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
@@ -333,6 +337,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
