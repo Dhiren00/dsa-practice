@@ -58,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhiren00/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Dhiren00/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhiren00/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -79,10 +80,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dhiren00/dsa-practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Dhiren00/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhiren00/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dhiren00/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Dhiren00/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Dhiren00/dsa-practice/tree/master/0257-binary-tree-paths) |
