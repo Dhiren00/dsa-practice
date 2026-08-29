@@ -29,6 +29,7 @@
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Dhiren00/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Dhiren00/dsa-practice/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhiren00/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dhiren00/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Math
 |  |
@@ -125,6 +127,7 @@
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhiren00/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
