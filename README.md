@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/Dhiren00/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dhiren00/dsa-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Dhiren00/dsa-practice/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Dhiren00/dsa-practice/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Dhiren00/dsa-practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhiren00/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0090-subsets-ii) |
@@ -165,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Dhiren00/dsa-practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
@@ -354,4 +356,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Dhiren00/dsa-practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
