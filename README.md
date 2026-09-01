@@ -85,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhiren00/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dhiren00/dsa-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dhiren00/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -142,6 +143,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhiren00/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhiren00/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dhiren00/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -155,6 +157,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhiren00/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhiren00/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
