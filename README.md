@@ -109,6 +109,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dhiren00/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dhiren00/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -265,6 +267,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -287,6 +290,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhiren00/dsa-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
