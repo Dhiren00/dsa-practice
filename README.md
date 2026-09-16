@@ -25,6 +25,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhiren00/dsa-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Dhiren00/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Dhiren00/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhiren00/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
@@ -325,6 +326,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
@@ -336,6 +338,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Dhiren00/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhiren00/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhiren00/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
@@ -368,6 +371,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -377,4 +381,20 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Dhiren00/dsa-practice/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
