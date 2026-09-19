@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/Dhiren00/dsa-practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Dhiren00/dsa-practice/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Dhiren00/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dhiren00/dsa-practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhiren00/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -51,6 +52,7 @@
 | [0046-permutations](https://github.com/Dhiren00/dsa-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Dhiren00/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Dhiren00/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dhiren00/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Dhiren00/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Dhiren00/dsa-practice/tree/master/0257-binary-tree-paths) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dhiren00/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Dhiren00/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
@@ -95,6 +98,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dhiren00/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dhiren00/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Dhiren00/dsa-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dhiren00/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Dhiren00/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhiren00/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -106,6 +110,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dhiren00/dsa-practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0099-recover-binary-search-tree) |
