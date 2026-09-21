@@ -22,6 +22,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhiren00/dsa-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -84,6 +85,7 @@
 | [0037-sudoku-solver](https://github.com/Dhiren00/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Dhiren00/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Math
@@ -330,6 +332,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
@@ -343,6 +346,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Dhiren00/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhiren00/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhiren00/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
