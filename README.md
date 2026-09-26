@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhiren00/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiren00/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Dhiren00/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dhiren00/dsa-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dhiren00/dsa-practice/tree/master/0042-trapping-rain-water) |
@@ -177,6 +178,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiren00/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dhiren00/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Dhiren00/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Dhiren00/dsa-practice/tree/master/0148-sort-list) |
