@@ -22,6 +22,7 @@
 | [0134-gas-station](https://github.com/Dhiren00/dsa-practice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhiren00/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -268,6 +269,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhiren00/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -352,6 +354,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Dhiren00/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhiren00/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dhiren00/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -426,4 +429,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Dhiren00/dsa-practice/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhiren00/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
