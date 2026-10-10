@@ -101,6 +101,7 @@
 | [0002-add-two-numbers](https://github.com/Dhiren00/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dhiren00/dsa-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dhiren00/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Dhiren00/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiren00/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhiren00/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Dhiren00/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Dhiren00/dsa-practice/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
@@ -445,4 +447,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhiren00/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dhiren00/dsa-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
