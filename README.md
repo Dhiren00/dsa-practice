@@ -40,6 +40,7 @@
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Dhiren00/dsa-practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Dhiren00/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dhiren00/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhiren00/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -122,6 +123,7 @@
 | [0131-palindrome-partitioning](https://github.com/Dhiren00/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Dhiren00/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dhiren00/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
 ## Depth-First Search
 |  |
 | ------- |
