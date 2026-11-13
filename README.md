@@ -147,6 +147,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Dhiren00/dsa-practice/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Dhiren00/dsa-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhiren00/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
@@ -161,6 +162,7 @@
 | [0207-course-schedule](https://github.com/Dhiren00/dsa-practice/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Dhiren00/dsa-practice/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Dhiren00/dsa-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhiren00/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
@@ -407,6 +409,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhiren00/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Dhiren00/dsa-practice/tree/master/0684-redundant-connection) |
 ## Merge Sort
 |  |
 | ------- |
@@ -441,6 +444,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Dhiren00/dsa-practice/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/Dhiren00/dsa-practice/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
