@@ -124,6 +124,7 @@
 | [0198-house-robber](https://github.com/Dhiren00/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhiren00/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Dhiren00/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0684-redundant-connection](https://github.com/Dhiren00/dsa-practice/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Dhiren00/dsa-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhiren00/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Dhiren00/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -165,6 +167,7 @@
 | [0684-redundant-connection](https://github.com/Dhiren00/dsa-practice/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Dhiren00/dsa-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dhiren00/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Dhiren00/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -283,6 +286,7 @@
 | [0239-sliding-window-maximum](https://github.com/Dhiren00/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiren00/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhiren00/dsa-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Dhiren00/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Dhiren00/dsa-practice/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Dhiren00/dsa-practice/tree/master/1046-last-stone-weight) |
 ## Sliding Window
@@ -445,6 +449,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Dhiren00/dsa-practice/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Dhiren00/dsa-practice/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Dhiren00/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -461,4 +466,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dhiren00/dsa-practice/tree/master/0070-climbing-stairs) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Dhiren00/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
