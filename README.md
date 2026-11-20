@@ -36,6 +36,7 @@
 | [0493-reverse-pairs](https://github.com/Dhiren00/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Dhiren00/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Dhiren00/dsa-practice/tree/master/0542-01-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/Dhiren00/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Dhiren00/dsa-practice/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Dhiren00/dsa-practice/tree/master/0733-flood-fill) |
@@ -95,6 +96,7 @@
 | [0079-word-search](https://github.com/Dhiren00/dsa-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Dhiren00/dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Dhiren00/dsa-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Dhiren00/dsa-practice/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhiren00/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
@@ -123,6 +125,7 @@
 | [0131-palindrome-partitioning](https://github.com/Dhiren00/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Dhiren00/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dhiren00/dsa-practice/tree/master/0213-house-robber-ii) |
+| [0542-01-matrix](https://github.com/Dhiren00/dsa-practice/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhiren00/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Dhiren00/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
@@ -162,6 +165,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Dhiren00/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Dhiren00/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dhiren00/dsa-practice/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/Dhiren00/dsa-practice/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dhiren00/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Dhiren00/dsa-practice/tree/master/0684-redundant-connection) |
